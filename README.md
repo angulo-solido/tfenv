@@ -31,7 +31,7 @@ include ::tfenv
 1. Check out tfenv into any path (here is `${HOME}/.tfenv`)
 
   ```console
-  $ git clone https://github.com/tfutils/tfenv.git ~/.tfenv
+  $ git clone https://github.com/angulo-solido/tfenv.git ~/.tfenv
   ```
 
 2. Add `~/.tfenv/bin` to your `$PATH` any way you like
